@@ -15,7 +15,9 @@ Conducted sentiment analysis using TextBlob to classify captions as Positive, Ne
 Performed topic modeling using NMF to discover main themes in the captions.
 
 Visualized important words using bar charts and word clouds.
+
 Step-by-Step Workflow
+
 Step 1: Load Data
 
 Imported the Excel file using pandas.
